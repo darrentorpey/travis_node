@@ -1,0 +1,1 @@
+This is a project I made to learn how to use Travis CI as I followed through [Build Podcast #32](https://github.com/sayanee/Build-Podcast/tree/master/032-travisci)
